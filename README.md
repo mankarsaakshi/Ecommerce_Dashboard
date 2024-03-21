@@ -3,7 +3,7 @@ Ecommerce has revolutionized modern business by enabling online transactions. Wi
 
 ## Key Components of Ecommerce Data:
 
-### Data Components: Sales, customer, product, website analytics, and fulfillment data drive the ecommerce world.
+### Data Components: Sales, customer, product, and fulfillment data drive the ecommerce world.
 
 ### Benefits:
 
